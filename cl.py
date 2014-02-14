@@ -15,7 +15,6 @@ import signal
 import datetime
 import threading
 import Queue
-import time
 
 
 import smtplib
